@@ -1,9 +1,9 @@
 ## Blumenstock response
 Devika Puri
 
-##Jan. 28
+Jan. 28
 
-What is the promise of data science for human development? What are some of the pitfalls?
+## What is the promise of data science for human development? What are some of the pitfalls?
 
 In his article, "Don't forget people in the use of big data for development", Blumenstock explores the promise of data science. He focuses on how data science can help to solve many humanitarian issues around the world, through the use of algorithms. For example, algorithms have found a correlation between thatched roofs of African houses and increased poverty level. Thus, satellite data of thatched roofs could allow governments to distribute aid accordingly to the people. Aside from aid, data science shows promise as it can provide lawmakers with information necessary to make policy changes. 
 
