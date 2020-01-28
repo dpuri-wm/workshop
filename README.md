@@ -6,7 +6,7 @@ Devika Puri
 
 1. Blumenstock (Jan. 28)
 
-2. [Blumenstock question] (https://github.com/dpuri-wm/workshop/blob/master/blumenstock.md)
+2. [Blumenstock question](https://github.com/dpuri-wm/workshop/blob/master/blumenstock.md)
 
 ##Projects
 
