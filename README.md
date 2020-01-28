@@ -8,7 +8,7 @@ Devika Puri
 
 2. [Blumenstock question](https://github.com/dpuri-wm/workshop/blob/master/blumenstock.md)
 
-##Projects
+## Projects
 
 1.
 
