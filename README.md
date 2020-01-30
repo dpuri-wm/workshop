@@ -6,7 +6,7 @@ Devika Puri
 
 1. [Blumenstock question](https://github.com/dpuri-wm/workshop/blob/master/blumenstock.md)
 
-2. [Blumenstock response](https://dpuri-wm.github.io/workshop/)(Jan. 30, revised)
+2. [Blumenstock response](https://dpuri-wm.github.io/workshop/blumenstock)(Jan. 30, revised)
 
 
 
