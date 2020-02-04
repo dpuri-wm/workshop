@@ -6,6 +6,8 @@ Devika Puri
 
 1. [Blumenstock response](https://dpuri-wm.github.io/workshop/blumenstock)(Jan. 30, revised)
 
+2. [Jahan/Rosling Response](
+
 
 
 ## Projects
