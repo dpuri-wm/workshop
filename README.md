@@ -6,7 +6,7 @@ Devika Puri
 
 1. [Blumenstock response](https://dpuri-wm.github.io/workshop/blumenstock)(Jan. 30, revised)
 
-2. [Jahan/Rosling Response](https://github.com/dpuri-wm/workshop/blob/master/JahanRosling.md)(Feb. 4)
+2. [Jahan/Rosling Response](https://github.com/dpuri-wm/workshop/JahanRosling)(Feb. 4)
 
 
 
