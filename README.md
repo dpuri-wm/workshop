@@ -8,6 +8,8 @@ Devika Puri
 
 2. [Jahan/Rosling Response](https://dpuri-wm.github.io/workshop/JahanRosling)(Feb. 4)
 
+3. [Barder questions response](https://dpuri-wm.github.io/workshop/BarderQuestions)(Feb. 18)
+
 
 
 ## Projects
