@@ -14,7 +14,7 @@ Devika Puri
 
 ## Projects
 
-1.
+1. [Assignment 1](https://dpuri-wm.github.io/workshop/Assignment1) 
 
 
 ## Formal Assignments
