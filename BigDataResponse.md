@@ -1,0 +1,2 @@
+## In Anderson's 2008 Wired Article he describes how the data deluge is serving to make the scientific theory obsolete. Kitchen provides a rebuttal to Anderson's argument that theory is dead with his superposition that in fact we have entered the fourth paradigm. What do you think? Do you beleive that theory is dead? Do you think we have indeed entered a paradigm shifiting revolution for how we describe, analyze, and understand the world?
+
