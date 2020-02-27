@@ -10,6 +10,7 @@ Devika Puri
 
 3. [Barder questions response](https://dpuri-wm.github.io/workshop/BarderQuestions)(Feb. 18)
 
+4. [Big Data Response](https://dpuri-wm.github.io/workshop/BigDataResponse) 
 
 
 ## Projects
