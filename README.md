@@ -12,7 +12,8 @@ Devika Puri
 
 4. [Big Data Response](https://dpuri-wm.github.io/workshop/BigDataResponse) 
 
-5. [Stevens Response](http://dpuri-wm.github.io/workshop/Stevens
+5. [Stevens Response](http://dpuri-wm.github.io/workshop/StevensResponse)
+
 
 
 ## Projects
