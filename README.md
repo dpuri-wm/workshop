@@ -22,6 +22,8 @@ Devika Puri
 
 1. [Assignment 1](https://dpuri-wm.github.io/workshop/Assignment1) 
 
+2. [Assignment 2](https://dpuri-wm.github.io/workshop/Assignment2)
+
 
 ## Formal Assignments
 
