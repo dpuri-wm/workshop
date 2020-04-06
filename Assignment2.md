@@ -35,16 +35,29 @@ I think I’ve made good progress with my project proposal, but I know I still h
 ### References
 
 [1]  Strano, E., Viana, M. P., Sorichetta, A., & Tatem, A. J. (2018). Mapping road network communities for guiding disease surveillance and control strategies. Scientific Reports, 8(1). doi: 10.1038/s41598-018-22969-4
+
 [2]  Suh, K. N., Kain, K. C., & Keystone, J. S. (2004). Malaria. Canadian Medical Association Journal , 170(11), 1693–1702. doi: 10.1503/cmaj.1030418
+
 [3]  Tatem, A. J., Huang, Z., Narib, C., Kumar, U., Kandula, D., Pindolia, D. K., … Lourenço, C. (2014). Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning. Malaria Journal, 13(1). doi: 10.1186/1475-2875-13-52
+
 [4]  Tusting, L. S., Bottomley, C., Gibson, H., Kleinschmidt, I., Tatum, A. J., Lindsay, S. W., & Gething, P. W. (2017). Housing Improvements and Malaria Risk in Sub-Saharan Africa: A Multi-Country Analysis of Survey Data. PLoS Med, 14(2). doi: https://doi.org/10.1371/journal.pmed.1002234
+
 [5] Reiner, R. C., Menach, A. L., Kunene, S., Ntshalintshali, N., Hsiang, M. S., Perkins, A. T., … Cohen, J. M. (2015). Mapping residual transmission for malaria elimination. ELife Sciences. doi: 10.7554/elife.09520.012
+
 [6] Atieli, Harrysone E, et al. “Topography as a Modifier of Breeding Habitats and Concurrent Vulnerability to Malaria Risk in the Western Kenya Highlands.” Parasites & Vectors, vol. 4, no. 1, 2011, doi:10.1186/1756-3305-4-241. 
+
 [7] Dechambenoit, Gilbert. “Access to Health Care in Sub-Saharan Africa.” Surgical Neurology International, vol. 7, no. 1, 2016, p. 108., doi:10.4103/2152-7806.196631.
+
 [8] Kimbi, Helen Kuokuo. “Environmental Factors and Preventive Methods against Malaria Parasite Prevalence in Rural Bomaka and Urban Molyko, Southwest Cameroon.” Journal of Bacteriology & Parasitology, vol. 04, no. 01, 2012, doi:10.4172/2155-9597.1000162.
+
 [9] Yiu, Tony. Understanding Random Forest. 12 June 2019, towardsdatascience.com/understanding-random-forest-58381e0602d2.
+
 [10] Guide to DHS Statistics. www.dhsprogram.com/pubs/pdf/DHSG1/Guide_to_DHS_Statistics_DHS-7.pdf.
+
 [11] Climate Data for Cities Worldwide Select a Continent. en.climate-data.org/.
+
 [12] “300 m Annual Global Land Cover Time Series from 1992 to 2015.” 300 m Annual Global Land Cover Time Series from 1992 to 2015 | ESA CCI Land Cover Website, www.esa-landcover-cci.org/?q=node/175.
+
 [13] Alegana, Victor A., et al. “Malaria Prevalence Metrics in Low- and Middle-Income Countries: an Assessment of Precision in Nationally-Representative Surveys.” Malaria Journal, vol. 16, no. 1, 2017, doi:10.1186/s12936-017-2127-y.
+
 [14] Sanchez, J. D. (n.d.). | Malaria: General information. Retrieved from https://www.paho.org/hq/index.php?option=com_content&view=article&id=2573:general-information-malaria&Itemid=2060&lang=fr
