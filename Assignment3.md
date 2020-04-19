@@ -58,12 +58,19 @@ Ultimately, both Random Forest and Bayesian Spatio-temporal models are important
 ### References
 
 [1] Sanchez, J. D. (n.d.). | Malaria: General information. Retrieved from https://www.paho.org/hq/index.php?option=com_content&view=article&id=2573:general-information-malaria&Itemid=2060&lang=fr
+
 [2] Dechambenoit, Gilbert. “Access to Health Care in Sub-Saharan Africa.” Surgical Neurology International, vol. 7, no. 1, 2016, p. 108., doi:10.4103/2152-7806.196631.
+
 [3]  Suh, K. N., Kain, K. C., & Keystone, J. S. (2004). Malaria. Canadian Medical Association Journal , 170(11), 1693–1702. doi: 10.1503/cmaj.1030418
+
 [4]  Tusting, L. S., Bottomley, C., Gibson, H., Kleinschmidt, I., Tatum, A. J., Lindsay, S. W., & Gething, P. W. (2017). Housing Improvements and Malaria Risk in Sub-Saharan Africa: A Multi-Country Analysis of Survey Data. PLoS Med, 14(2). doi: https://doi.org/10.1371/journal.pmed.1002234
+
 [5] Yiu, Tony. Understanding Random Forest. 12 June 2019, towardsdatascience.com/understanding-random-forest-58381e0602d2.
+
 [6]  Tatem, A. J., Huang, Z., Narib, C., Kumar, U., Kandula, D., Pindolia, D. K., … Lourenço, C. (2014). Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning. Malaria Journal, 13(1). doi: 10.1186/1475-2875-13-52
+
 [7] Alegana, V. A., Kigozi, S. P., Nankabirwa, J., Arinaitwe, E., Kigozi, R., Mawejje, H., . . . Tatem, A. J. (2016). Spatio-temporal analysis of malaria vector density from baseline through intervention in a high transmission setting. Parasites &amp; Vectors, 9(1). doi:10.1186/s13071-016-1917-3
+
 [8] Bayesian Statistics Explained in Simple English For Beginners. (n.d.). Retrieved April 19, 2020, from https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/
 
 
