@@ -1,6 +1,6 @@
-# Utilizing Random Forest Algorithm and Bayesian Spatio-temporal model to monitor SDG #3 progress through eliminating Malaria
+## Utilizing Random Forest Algorithm and Bayesian Spatio-temporal model to monitor SDG #3 progress through eliminating Malaria
 
-## Introduction
+### Introduction
 
 The United Nation’s third sustainable development goal is good health and well-being. In order to reach this goal with no person left behind, it is imperative to focus on malaria, a serious disease impacting people in lower-middle income countries worldwide. The disease is caused by the parasite, Plasmodium Falciparum, which is transmitted to humans through night-biting Anopheles mosquitoes. Although there are medications to treat malaria, the drugs are usually not an effective treatment against the parasite. In fact, chloroquine, a malaria drug, has developed resistance to P. Falciparum [1]. Furthermore, the illness is most prevalent in less developed countries, such as in the region of Sub-Saharan Africa, where access to treatment is not available. Malaria is most prevalent in non-urban areas, especially in underdeveloped villages. Since Africa has a hospital-centered healthcare system that mostly serves urbanized areas, infected individuals in these villages receive no proper treatment [2]. Moreover, “60% of malaria deaths worldwide occur in the poorest 20% of the population [3].” With no access to hospitalization, many residents of malaria-prone regions, especially children and pregnant women, suffer from the severe symptoms, like fever, seizures, bleeding, etc. Additionally, malaria has placed huge financial burdens on the families and governments of these countries. Ultimately, malaria is a deadly disease. Since curing malaria is a difficult task, prevention is of the utmost importance.
 
@@ -9,7 +9,7 @@ One gap I’ve identified through my research on malaria is that malaria risk an
 Through my previous research, the two data science methods of Random Forest and Bayesian Statistical Model seem promising. 
 
 
-## Method 1: Random Forest
+### Method 1: Random Forest
 
 The first data science method to be considered is the classification algorithm, Random Forest. Random Forest works through creating multiple “decision trees”, with each “branch” of the tree representing a possible decision/reaction. 
 
@@ -33,7 +33,7 @@ One way model quality was assessed was through area under the curve (AUC) on gra
 
 The table above displays that random forest was used based on case data from 2 districts, and then the model was used to predict malaria probability in the third district. The AUC values are generally high, which indicates strong performance and reveals that the driving factors of malaria probability are similar among the three districts. 
 
-## Method 2: Bayesian Spatio- temporal Model
+### Method 2: Bayesian Spatio- temporal Model
 
 The second data science method is the Bayesian Spatio-temporal model. “ Bayesian statistics is a mathematical procedure that applies probabilities to statistical problems. It provides people the tools to update their beliefs in the evidence of new data [10]” The article, “Bayesian Statistics Explained to Beginners in simple english”, provided an excellent example [8]. The article talks about how 2 players, James and Niki, are competing in a championship race. Niki has won 3 times while James has 1 once. Any ordinary model would predict that Niki would win again on the next race date. However, Bayesian statistical models would take into consideration the fact that it rained when James won, and it will rain again on the next race date. Essentially, the model takes into consideration important conditions and calculated conditional probabilities. 
 
@@ -51,11 +51,11 @@ The above formula is used to calculate the outcome of mean vector density per ho
 
 The above figure shows the predicted vector densities before indoor residual spraying, and after residual spraying, using the Bayesian Spatio-temporal model. Thus, the study shows that there are major reductions in malaria vectors when indoor residual spraying was introduced into the community, even with all the different ecological and climatic variables. The results suggest that spraying should be introduced in different communities, even where the environment is a little different. Another interesting finding of the study is that rainfall increased vector densities. Ultimately, the model produced is beneficial for making decisions about when to administer the treatment of spraying. 
 
-## Discussion
+### Discussion
 
 Ultimately, both Random Forest and Bayesian Spatio-temporal models are important data science methods that can be utilized in monitoring SDG progress of good health and well-being, through monitoring progress of eliminating malaria in lower-middle income countries. The methods are different from one another, but they could work complementary to one another to help solve the research question: What is a thorough and proper metric to represent malaria risk in localized regions in Africa, that conveys information on multiple datasets including topography, climate, urbanization, insecticide-bed net use, etc? The Bayesian Statistical model did a great job at assessing which variables and covariates impacted malaria risk/prevalence more than others. The model was good at analyzing exactly what impact each covariate had on mosquito density, and the extent of the impact. For example, it was found within the study that distance to water had a protective effect on the households and that there was a 10.6% decrease in adult vector abundance for every kilometer increase in the distance to a water body. Meanwhile, the study on random forest did an excellent job at utilizing all these datasets and factors to ultimately produce a quantifiable number of malaria probability. Together, the two methods could work together as the Bayesian spatio-temporal model could determine which covariates are important to consider in certain regions compared to others, and then the Random Forest algorithm could use those covariates to produce probability of malaria cases. The two could work hand-in-hand to produce values of probability of malaria cases to smaller and more localized regions than previously considered, since the Bayesian-statistical model could utilize localized samples to determine the important covariates to be considered in that geographic location. In conclusion, the two methods could help solve the gap in the research which is that too few datasets are being used to assess malaria prevalence and risk. The two methods make sure that enough covariates are being utilized, but specifically only the critical covariates that will provide a preciser and more accurate measure of malaria risk and prevalence. 
 
-## References
+### References
 
 [1] Sanchez, J. D. (n.d.). | Malaria: General information. Retrieved from https://www.paho.org/hq/index.php?option=com_content&view=article&id=2573:general-information-malaria&Itemid=2060&lang=fr
 [2] Dechambenoit, Gilbert. “Access to Health Care in Sub-Saharan Africa.” Surgical Neurology International, vol. 7, no. 1, 2016, p. 108., doi:10.4103/2152-7806.196631.
