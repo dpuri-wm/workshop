@@ -1,3 +1,5 @@
+# Utilizing Random Forest Algorithm and Bayesian Spatio-temporal model to monitor SDG #3 progress through eliminating Malaria
+
 ## Introduction
 
 The United Nation’s third sustainable development goal is good health and well-being. In order to reach this goal with no person left behind, it is imperative to focus on malaria, a serious disease impacting people in lower-middle income countries worldwide. The disease is caused by the parasite, Plasmodium Falciparum, which is transmitted to humans through night-biting Anopheles mosquitoes. Although there are medications to treat malaria, the drugs are usually not an effective treatment against the parasite. In fact, chloroquine, a malaria drug, has developed resistance to P. Falciparum [1]. Furthermore, the illness is most prevalent in less developed countries, such as in the region of Sub-Saharan Africa, where access to treatment is not available. Malaria is most prevalent in non-urban areas, especially in underdeveloped villages. Since Africa has a hospital-centered healthcare system that mostly serves urbanized areas, infected individuals in these villages receive no proper treatment [2]. Moreover, “60% of malaria deaths worldwide occur in the poorest 20% of the population [3].” With no access to hospitalization, many residents of malaria-prone regions, especially children and pregnant women, suffer from the severe symptoms, like fever, seizures, bleeding, etc. Additionally, malaria has placed huge financial burdens on the families and governments of these countries. Ultimately, malaria is a deadly disease. Since curing malaria is a difficult task, prevention is of the utmost importance.
@@ -12,6 +14,7 @@ Through my previous research, the two data science methods of Random Forest and 
 The first data science method to be considered is the classification algorithm, Random Forest. Random Forest works through creating multiple “decision trees”, with each “branch” of the tree representing a possible decision/reaction. 
 
 ![Screen Shot 2020-04-19 at 3 20 23 PM](https://user-images.githubusercontent.com/60228374/79697715-2ea95580-8252-11ea-98a4-6cbea895953a.png)
+
 Above, is a simple diagram depicting one decision tree. The tree works to make a prediction through “answering” a series of questions. 
 
 ![Screen Shot 2020-04-19 at 3 22 41 PM](https://user-images.githubusercontent.com/60228374/79697724-45e84300-8252-11ea-8ff9-df222882cdac.png)
